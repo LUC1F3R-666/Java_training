@@ -1,7 +1,4 @@
-# Java build files
 *.class
-
-# optional (recommended)
-out/
 bin/
 target/
+
